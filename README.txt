@@ -2,7 +2,9 @@ My first JavaScript project created with 'The Complete JavaScript Course 2022: F
 
 ** GUESS MY NUMBER GAME **
 
-Start the game by opening the html file in a web browser!
+Simple game where the player aims to guess the mystery number between 1-20 and is given higher/lower clues to help get there.
+
+Start the game by cloning the repo and running live-server to open the index.html file in browser
 
 Tools and technologies used:
 - Started from boilerplate code for the html document and css styling
