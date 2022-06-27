@@ -13,3 +13,6 @@ Tools and technologies used:
 
 - Refactored code to follow DRY principle and improve readability
 
+
+Code written by Anna Hekkink
+
